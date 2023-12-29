@@ -1,0 +1,6 @@
+django
+gunicorn
+whitenoise
+python-dotenv
+django-theme-pixel
+django-api-generator
